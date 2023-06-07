@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Ulugbek Umbarov 👋
+
+I'm a senior full stack developer and web enthusiast with expertise in Node.js & .NET stacks.
 
 <!--
 **umbarov/umbarov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
